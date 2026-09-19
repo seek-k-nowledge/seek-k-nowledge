@@ -10,8 +10,6 @@ More projects on the way — I build across whatever in AI/ML interests me next,
 
 **Elsewhere:**
 
-Everything I'm building, in one place:
-
 - 🌀 Portfolio: seek-k-nowledge.github.io
 
 - 🧠 GitHub: github.com/seek-k-nowledge
