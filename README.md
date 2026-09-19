@@ -24,4 +24,4 @@ Everything I'm building, in one place:
 
 - 🐦 X: x.com/PaulEHarris4th
 
-* Unfiltered. Building things, breaking assumptions.
+ Unfiltered. Building things, breaking assumptions.
