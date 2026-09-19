@@ -9,6 +9,13 @@ More projects on the way — I build across whatever in AI/ML interests me next,
 - 🌀 [SynechismCore](https://github.com/seek-k-nowledge/SynechismCore) — Latent Neural ODEs with φ-scaling for chaotic dynamical systems, targeting arXiv / NeurIPS ML4PS 2026
 
 **Elsewhere:**
-- ORCID: https://orcid.org/0009-0009-3285-4610
-- LinkedIn: in/paul-edward-harris-4th-3a689941b
-- Facebook: PaulEdwardHarris4th
+Everything I'm building, in one place:
+
+🌀 Portfolio: seek-k-nowledge.github.io
+🧠 GitHub: github.com/seek-k-nowledge
+💼 LinkedIn: linkedin.com/in/paul-edward-harris-4th-3a689941b
+🔬 ORCID: orcid.org/0009-0009-3285-4610
+📘 Facebook: facebook.com/PaulEdwardHarris4th
+🐦 X: x.com/PaulEHarris4th
+
+Unfiltered. Building things, breaking assumptions.
