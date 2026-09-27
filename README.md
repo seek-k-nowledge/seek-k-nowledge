@@ -6,8 +6,7 @@ More projects on the way — I build across whatever in AI/ML interests me next,
 
 **Projects:**
 - 🧠 [Enterprise GraphRAG & Multi-Agent Swarm Engine](https://github.com/seek-k-nowledge/enterprise-graphrag-agent) — a general-purpose knowledge graph + agent reasoning system (FastAPI, LangGraph, Neo4j)
-- 🌀 [SynechismCore](https://github.com/seek-k-nowledge/SynechismCore) — Latent Neural ODEs with φ-scaling for chaotic dynamical systems, targeting arXiv / NeurIPS ML4PS 2026
-
+- 🌀 [SynechismCore](https://github.com/seek-k-nowledge/SynechismCore) — Latent Neural ODEs with φ-scaling for chaotic dynamical systems, targeting arXiv / NeurIPS ML4PS 2027
 **Elsewhere:**
 
 - 🌀 Portfolio: seek-k-nowledge.github.io
