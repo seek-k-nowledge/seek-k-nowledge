@@ -16,5 +16,6 @@ Independent AI/ML learner and researcher (also written Paul E. Harris IV). I lea
 - 💼 LinkedIn: https://www.linkedin.com/in/paul-edward-harris-4th-3a689941b
 - 𝕏 X: https://x.com/PaulEHarris4th
 - 📘 Facebook: https://www.facebook.com/PaulEdwardHarris4th/
+- 📣 Facebook Page: https://www.facebook.com/PaulEdwardHarrisIV/
 
 *Unfiltered. Building things, breaking assumptions.*
