@@ -1,24 +1,20 @@
 # Paul Edward Harris 4th
 
-AI/ML practitioner building applied AI projects — a GraphRAG and multi-agent reasoning engine, and ongoing research into Latent Neural ODEs for chaotic dynamical systems (SynechismCore). Self-taught foundation; currently preparing to begin an accelerated BS-to-Master's program.
+Independent AI/ML learner and researcher (also written Paul E. Harris IV). I learn machine learning by building real projects with AI as my development partner — then working through the errors until I understand what I built.
 
-More projects on the way — I build across whatever in AI/ML interests me next, not locked into one system or one framework.
+**How I work:** idea → research → prompting → generated code → running it → hitting errors → investigating → correcting → testing → documenting. My projects are built with heavy AI assistance; I direct, run, debug, and verify the work, and I'm learning each part from the inside out.
 
-**Projects:**
-- 🧠 [Enterprise GraphRAG & Multi-Agent Swarm Engine](https://github.com/seek-k-nowledge/enterprise-graphrag-agent) — a general-purpose knowledge graph + agent reasoning system (FastAPI, LangGraph, Neo4j)
-- 🌀 [SynechismCore](https://github.com/seek-k-nowledge/SynechismCore) — Latent Neural ODEs with φ-scaling for chaotic dynamical systems, targeting arXiv / NeurIPS ML4PS 2027
-**Elsewhere:**
+### Projects
 
-- 🌀 Portfolio: seek-k-nowledge.github.io
+- 🌀 [SynechismCore](https://github.com/seek-k-nowledge/SynechismCore) — When a chaotic forecast is periodically corrected with real observations, does the forecaster's architecture still matter? Compares a Latent Neural ODE with Transformer, Mamba and LSTM. Results under revision; arXiv write-up, then a 2027 workshop.
+- 🧠 [Enterprise GraphRAG & Multi-Agent Swarm Engine](https://github.com/seek-k-nowledge/enterprise-graphrag-agent) — learning project exploring LLM extraction, knowledge graphs, retrieval, and multi-agent workflows (Python, FastAPI, LangGraph, Neo4j).
 
-- 🧠 GitHub: github.com/seek-k-nowledge
+### Find me
 
-- 💼 LinkedIn: linkedin.com/in/paul-edward-harris-4th-3a689941b
+- 🌐 Portfolio: https://seek-k-nowledge.github.io
+- 🔬 ORCID: https://orcid.org/0009-0009-3285-4610
+- 💼 LinkedIn: https://www.linkedin.com/in/paul-edward-harris-4th-3a689941b
+- 𝕏 X: https://x.com/PaulEHarris4th
+- 📘 Facebook: https://www.facebook.com/PaulEdwardHarris4th/
 
-- 🔬 ORCID: orcid.org/0009-0009-3285-4610
-
-- 📘 Facebook: facebook.com/PaulEdwardHarris4th
-
-- 🐦 X: x.com/PaulEHarris4th
-
- Unfiltered. Building things, breaking assumptions.
+*Unfiltered. Building things, breaking assumptions.*
