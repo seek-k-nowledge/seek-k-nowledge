@@ -7,7 +7,7 @@ Independent AI/ML learner and researcher (also written Paul E. Harris IV). I lea
 ### Projects
 
 - 🌀 [SynechismCore](https://github.com/seek-k-nowledge/SynechismCore) — When a chaotic forecast is periodically corrected with real observations, does the forecaster's architecture still matter? Compares a Latent Neural ODE with Transformer, Mamba and LSTM. Results under revision; arXiv write-up, then a 2027 workshop.
-- 🧠 [Enterprise GraphRAG & Multi-Agent Swarm Engine](https://github.com/seek-k-nowledge/enterprise-graphrag-agent) — learning project exploring LLM extraction, knowledge graphs, retrieval, and multi-agent workflows (Python, FastAPI, LangGraph, Neo4j).
+- 🧠 [GraphRAG Agent](https://github.com/seek-k-nowledge/enterprise-graphrag-agent) — learning project exploring LLM extraction, knowledge graphs, retrieval, and agent workflows (Python, FastAPI, LangGraph, Neo4j).
 
 ### Find me
 
