@@ -8,6 +8,8 @@ Independent AI/ML learner and researcher (also written Paul E. Harris IV). I lea
 
 - 🌀 [SynechismCore](https://github.com/seek-k-nowledge/SynechismCore) — When a chaotic forecast is periodically corrected with real observations, does the forecaster's architecture still matter? Compares a Latent Neural ODE with Transformer, Mamba and LSTM. Results under revision; arXiv write-up, then a 2027 workshop.
 - 🧠 [GraphRAG Agent](https://github.com/seek-k-nowledge/enterprise-graphrag-agent) — Working prototype (v0.x), actively developed toward production. Self-grounding knowledge graph pipeline with cited answers. Roadmap: authentication, security hardening, claim typing, load testing.
+- 🛰️ [Firm Radar](https://github.com/seek-k-nowledge/firm-radar) — Working prototype (v0.1). A private narrative-intelligence operations room for each client: threat radar, a crowd check that flags coordinated inauthentic behavior, network and spread maps, and weekly briefs with confidence levels.
+- 📡 [Narrative Radar](https://github.com/seek-k-nowledge/narrative-radar) — Working prototype (v0.1). A real-time news monitor that flags when a topic suddenly surges, across news, social, viral trends and video. Built to research my podcast, Listening Between the Lies.
 
 ### Find me
 
@@ -15,6 +17,7 @@ Independent AI/ML learner and researcher (also written Paul E. Harris IV). I lea
 - 🔬 ORCID: https://orcid.org/0009-0009-3285-4610
 - 💼 LinkedIn: https://www.linkedin.com/in/paul-edward-harris-4th-3a689941b
 - 𝕏 X: https://x.com/PaulEHarris4th
+- 🤗 Hugging Face: https://huggingface.co/seek-k-nowledge
 - 📘 Facebook: https://www.facebook.com/PaulEdwardHarris4th/
 - 📣 Facebook Page: https://www.facebook.com/PaulEdwardHarrisIV/
 
