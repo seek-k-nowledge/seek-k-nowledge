@@ -4,6 +4,13 @@ Independent AI/ML learner and researcher (also written Paul E. Harris IV). I lea
 
 **How I work:** idea → research → prompting → generated code → running it → hitting errors → investigating → correcting → testing → documenting. My projects are built with heavy AI assistance; I direct, run, debug, and verify the work, and I'm learning each part from the inside out.
 
+### How I think
+
+- **Ownership.** I didn't come up through the usual route, and I don't let that decide what I can build.
+- **Chaos, not clockwork.** Small inputs shift big outcomes, like the Lorenz system. That's what my research studies.
+- **Build in public.** End to end, tested, real results shared, including what didn't work.
+- **Verify before believing.** Claims from media, institutions, or my own models get checked, not accepted.
+
 ### Projects
 
 - 🌀 [SynechismCore](https://github.com/seek-k-nowledge/SynechismCore) — When a chaotic forecast is periodically corrected with real observations, does the forecaster's architecture still matter? Compares a Latent Neural ODE with Transformer, Mamba and LSTM. Results under revision; arXiv write-up, then a 2027 workshop.
