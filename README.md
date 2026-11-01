@@ -13,15 +13,16 @@ Independent AI/ML learner and researcher (also written Paul E. Harris IV). I lea
 
 ### Projects
 
-- 🌀 [SynechismCore](https://github.com/seek-k-nowledge/SynechismCore) — Technical report: [*Continuous-Time Latent Dynamics for Long-Horizon Chaotic Forecasting under Irregular Sampling*](https://github.com/seek-k-nowledge/SynechismCore/blob/master/paper/Harris_2026_Continuous-Time_Latent_Dynamics_Irregular_Sampling.pdf) (Oct 2026). On Lorenz-63 under four sampling regimes, SynechismV23, a continuous-time latent neural ODE architecture I designed, had the longest valid prediction time in all four against Transformer, LSTM and Mamba-style baselines, with a modest lead over the LSTM. Next: stronger baselines, then arXiv and a 2027 workshop submission.
+- 🌀 [SynechismCore](https://github.com/seek-k-nowledge/SynechismCore) — Technical report: [*Continuous-Time Latent Dynamics for Long-Horizon Chaotic Forecasting under Irregular Sampling*](https://github.com/seek-k-nowledge/SynechismCore/blob/master/paper/Harris_2026_Continuous-Time_Latent_Dynamics_Irregular_Sampling.pdf) (Oct 2026, [DOI 10.5281/zenodo.23772388](https://doi.org/10.5281/zenodo.23772388); not peer reviewed). On Lorenz-63 under four sampling regimes, SynechismV23, a continuous-time latent neural ODE architecture I designed, had the longest valid prediction time in all four against Transformer, LSTM and Mamba-style baselines, with a modest lead over the LSTM. Next: stronger baselines, then arXiv and a 2027 workshop submission.
 - 🧠 [GraphRAG Agent](https://github.com/seek-k-nowledge/enterprise-graphrag-agent) — Working prototype (v0.x), actively developed toward production. Self-grounding knowledge graph pipeline with cited answers. Roadmap: authentication, security hardening, claim typing, load testing.
-- 🛰️ [Firm Radar](https://github.com/seek-k-nowledge/firm-radar) — Working prototype (v0.1). A private narrative-intelligence operations room for each client: threat radar, a crowd check that flags coordinated inauthentic behavior, network and spread maps, and weekly briefs with confidence levels.
+- 🛰️ [Firm Radar](https://github.com/seek-k-nowledge/firm-radar) — Working prototype (v0.1). A private narrative-intelligence operations room for each client: threat radar, a crowd check that flags possible coordinated inauthentic behavior for an analyst to review (accuracy not yet measured), network and spread maps, and weekly briefs with confidence levels.
 - 📡 [Narrative Radar](https://github.com/seek-k-nowledge/narrative-radar) — Working prototype (v0.1). A real-time news monitor that flags when a topic suddenly surges, across news, social, viral trends and video. Built to research my podcast, Listening Between the Lies.
 
 ### Find me
 
 - 🌐 Portfolio: https://seek-k-nowledge.github.io
 - 🔬 ORCID: https://orcid.org/0009-0009-3285-4610
+- 📄 Zenodo (technical report): https://doi.org/10.5281/zenodo.23772388
 - 💼 LinkedIn: https://www.linkedin.com/in/paul-edward-harris-4th-3a689941b
 - 𝕏 X: https://x.com/PaulEHarris4th
 - 🤗 Hugging Face: https://huggingface.co/seek-k-nowledge
