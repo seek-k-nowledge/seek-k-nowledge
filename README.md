@@ -20,6 +20,7 @@ Independent AI/ML learner and researcher (also written Paul E. Harris IV). I lea
 
 ### Find me
 
+- ✨ Website (Seek Knowledge): https://pauledwardharris4th.com
 - 🌐 Portfolio: https://seek-k-nowledge.github.io
 - 🔬 ORCID: https://orcid.org/0009-0009-3285-4610
 - 📄 Zenodo (technical report): https://doi.org/10.5281/zenodo.23772387
